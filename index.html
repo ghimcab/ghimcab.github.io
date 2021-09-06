@@ -35,34 +35,28 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://phuhdtv.github.io/">phuhdtv.github.io</a></h1>
-      
-
-      <h1 id="iptv">IPTV</h1>
-<p>EN: Collection publicly available IPTV channels from Vietnamese over the Russian/Kazakh</p>
-
-<p>RU: Коллекция общедоступных IPTV каналов с вьетнамского по российскому/Казахстанский</p>
-
-<p>Адрес 1: http://bom.to/vietNgaTV</p>
-
-<p>Адрес 2: http://bom.to/TVVietnga</p>
-
-<p>Link Backup: http://bom.to/Koditv</p>
-
-<p>List FPT: https://bom.to/iptv-fpt</p>
-
-<p>List iptvbyvietngatv: http://gg.gg/iptvbyvietngatv</p>
-
-<p>Link Euronews: http://gg.gg/euronewsbyvovanloc</p>
-
-<p>Download SimpleTV: http://gg.gg/simple-tv</p>
-
-<p>Link HaNoi IPTV: http://gg.gg/hanoiiptv</p>
-
-<p>Link Textuploader: http://gg.gg/iptv-2021</p>
-
-
-      
+     <!DOCTYPE html><center>
+<html>
+​
+<body onload="startTime()">
+​
+<h1><div id="txt"></div></h1>
+<script>
+function startTime() {
+  const today = new Date();
+  let h = today.getHours();
+  let m = today.getMinutes();
+  let s = today.getSeconds();
+  m = checkTime(m);
+  s = checkTime(s);
+  document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
+  setTimeout(startTime, 1000);
+}
+​
+function checkTime(i) {
+  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+  return i;
+} 
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>

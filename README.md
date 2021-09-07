@@ -1,2 +1,2 @@
-# ghimcab.github.com
+ghimcab.github.com
 <b> truyền hình trực tuyến </b>

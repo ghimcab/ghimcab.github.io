@@ -469,7 +469,7 @@ http://vips-livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="MIỀN BẮC" tvg-logo="https://2.pik.vn/2021f9e82743-d0aa-407c-88d8-ede41213384b.jpg", Hưng Yên
 
-http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
+https://live.hungyentv.vn/hytvlive/tv1live.m3u8
 
 #EXTINF:-1 group-title="MIỀN TRUNG" tvg-logo="https://2.pik.vn/20218cb237f9-ccbf-4090-9489-d5797d8aa21a.jpg", Khánh Hòa
 
@@ -501,7 +501,7 @@ http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 
 #EXTINF:-1 group-title="MIỀN BẮC" tvg-logo="https://2.pik.vn/20219391498f-c63a-42c0-b72b-3aa03c131a43.jpg", Lào Cai
 
-http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+http://vips-livecdn.fptplay.net/sdc/laocai_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://2.pik.vn/20210d1c7978-cb28-4ca9-bd22-33f577474fd3.jpg", Long An
 

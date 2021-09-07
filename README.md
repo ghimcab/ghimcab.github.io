@@ -1,4 +1,4 @@
-# <font color="red>G</font>
+<font color="red>G</font>
 <font color="green>H</font>
 <b
 <font color="blue>I</font>

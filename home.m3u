@@ -187,7 +187,7 @@ http://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b500000
 
 http://112.197.12.62/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740
 
-#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Phimviet.png/revision/latest?cb=20171216141114",VTVCab2
+#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/ON_Phim_Vi%E1%BB%87t_logo_%28VTVCab_2%29.png/revision/latest?cb=20210908105146&path-prefix=vi",ON Phim Việt
 
 http://112.197.12.62/secure/vtvcab2/index.m3u8?md5=QGYdEQjOO4Qj5YcwRFeV1w&expires=2556118740
 
@@ -199,7 +199,7 @@ http://112.197.12.62/secure/vtvcab4/index.m3u8?md5=VAQDb2DOBBBbwde5jBBfuA&expire
 
 http://112.197.12.62/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740
 
-#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/OnSports%2B_logo.png/revision/latest?cb=20210711093901",VTVCab6
+#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/OnSports%2B_logo.png/revision/latest?cb=20210711093901",ON Sports+
 
 http://112.197.12.62/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740
 
@@ -215,7 +215,7 @@ http://112.197.12.62/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expire
 
 http://112.197.12.62/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740
 
-#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/VTVCab_10.png/revision/latest?cb=20200509123206",VTVCab10
+#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5f/On_Cine_VTVCab_10.png/revision/latest?cb=20210907041336&path-prefix=vi",ON Cine
 
 http://112.197.12.62/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740
 
@@ -227,7 +227,7 @@ http://112.197.12.62/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expir
 
 http://112.197.12.62/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740
 
-#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/B%C3%B3ng_%C4%90%C3%A1_TV_%282017-present%29.png/revision/latest?cb=20191208110401",VTVCab16
+#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/ON_Football_logo_%28B%C3%B3ng_%C4%90%C3%A1_TV%29.png/revision/latest?cb=20210908105120&path-prefix=vi",ON Football
 
 http://112.197.12.62/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740
 

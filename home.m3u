@@ -201,7 +201,7 @@ http://livecdn.fptplay.net/hda3/boomerang_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://2.pik.vn/2021a6d0cebe-3465-4c90-a549-b800cc4f39e7.jpg", Cartoon Network
 
-http://livecdn.fptplay.net/hda3/cartoonnetworkhd_4000.stream/chunklist.m3u8
+http://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="MIỀN BẮC" tvg-logo="https://pbs.twimg.com/profile_images/1173731533254905857/nQzMqfHo_400x400.jpg",Dream Works
 http://livecdn.fptplay.net/hda3/dreamworks_4000.stream/chunklist.m3u8
@@ -224,7 +224,7 @@ https://livecdn.fptplay.net/hda2/bbcearth_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://2.pik.vn/20218117b28e-b284-4c65-b0c4-0fbc6d7c0628.jpg", Discovery Asia
 
-http://livecdn.fptplay.net/hda2/discoveryasia_4000.stream/chunklist.m3u8
+http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://2.pik.vn/20216fe1cedf-3d65-4c15-bd3a-df32019b97e9.jpg", WILD
 
@@ -237,6 +237,10 @@ http://livecdn.fptplay.net/hda2/cinemawork_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="MIỀN BẮC" tvg-logo="https://yt3.ggpht.com/v2NqZMd35lt0_CodMYhGa399Xe7c9P8UyDqMr8Mj6ucB067VCprvFkQGuPtPZgMeqPpQpFnADxQ=s900-c-k-c0x00ffffff-no-rj",FIM360
 
 http://livecdn.fptplay.net/hda3/film360_4000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="MIỀN BẮC" tvg-logo="https://static.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/m8pn1g6b_viegiaitri_logo_468_134.png",VieON
+
+http://vthanh.xyz/vieon.m3u8?kenh=vie-giai-tri-hd
 
 #EXTINF:-1 group-title="MIỀN BẮC" tvg-logo="https://2.pik.vn/20217dd07980-39ec-48cf-8b84-e98194b67c74.jpg", Hà Nội 1
 
@@ -272,7 +276,7 @@ http://livecdn.fptplay.net/hda2/vinhlong3_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://2.pik.vn/2021adc1c005-b910-4a92-886e-b9e7f06d558e.jpg", Vĩnh Long 4
 
-http://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+http://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://2.pik.vn/2021b15ddfb5-8e2b-4b4c-a3b8-95baf82fdab8.jpg", An Giang
 
@@ -358,7 +362,7 @@ http://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
 
 http://livecdn.fptplay.net/sda/caobang_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="TÂY NGUYÊN" tvg-logo="https://2.pik.vn/202187e461ed-fae6-4247-bf21-e694c691d07b.jpg", Đắk Lắk
+#EXTINF:-1 group-title="TÂY NGUYÊN" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/DRT_Dak_Lak.png/revision/latest?cb=20210925111533&path-prefix=vi", Đắk Lắk
 
 http://livecdn.fptplay.net/sdc/daklak_2000.stream/chunklist.m3u8
 

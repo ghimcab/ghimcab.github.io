@@ -240,7 +240,7 @@ http://livecdn.fptplay.net/hda3/film360_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="MIỀN BẮC" tvg-logo="https://static.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/m8pn1g6b_viegiaitri_logo_468_134.png",VieON
 
-http://vthanh.xyz/vieon.m3u8?kenh=vie-giai-tri-hd
+http://s4live.tv1asia.com:21585/vtvcab1/index.m3u8
 
 #EXTINF:-1 group-title="MIỀN BẮC" tvg-logo="https://2.pik.vn/20217dd07980-39ec-48cf-8b84-e98194b67c74.jpg", Hà Nội 1
 
@@ -381,6 +381,10 @@ http://livecdn.fptplay.net/sda/dongnai1_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://2.pik.vn/202180ef8083-8c19-4604-b950-9b3bbff06756.jpg", Đồng Nai 2
 
 http://livecdn.fptplay.net/sda/dongnai2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://2.pik.vn/2021b5b36890-4be0-4d50-a028-b223029cf2a4.jpg", Đồng Nai 3
+
+https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_3/TV_HD/dong_nai_3_480p/chunks.m3u8
 
 #EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://2.pik.vn/2021de20c3f7-4402-4cfe-bcbf-39d8cc80a29c.jpg", Đồng Tháp 1
 

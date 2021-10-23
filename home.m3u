@@ -1,4 +1,4 @@
-#EXTM3U GHIMCAB
+#EXTM3U GHIMCAB url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #EXT-X-VERSION: 7
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=1000000
@@ -276,7 +276,7 @@ http://livecdn.fptplay.net/hda2/vinhlong3_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://2.pik.vn/2021adc1c005-b910-4a92-886e-b9e7f06d558e.jpg", Vĩnh Long 4
 
-http://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b5000000.m3u8
+http://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://2.pik.vn/2021b15ddfb5-8e2b-4b4c-a3b8-95baf82fdab8.jpg", An Giang
 
@@ -385,6 +385,10 @@ http://livecdn.fptplay.net/sda/dongnai2_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://2.pik.vn/2021b5b36890-4be0-4d50-a028-b223029cf2a4.jpg", Đồng Nai 3
 
 https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_3/TV_HD/dong_nai_3_480p/chunks.m3u8
+
+#EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/%C4%90N9-RTV_logo_2018.png/revision/latest?cb=20210923083838&path-prefix=vi", Đồng Nai 9
+
+http://livecdn.fptplay.net/sda/skymart_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://2.pik.vn/2021de20c3f7-4402-4cfe-bcbf-39d8cc80a29c.jpg", Đồng Tháp 1
 
@@ -541,6 +545,10 @@ http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="MIỀN BẮC" tvg-logo="https://2.pik.vn/202112a40758-8572-4097-8a6b-0486f1b8af1c.jpg", Thái Nguyên
 
 http://livecdn.fptplay.net/sdc/thainguyen_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="MIỀN BẮC" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/TN2_logo_2017.png/revision/latest?cb=20201006101324&path-prefix=vi", Thái Nguyên 2
+
+http://14.186.94.163:9981/stream/channelid/1386328510
 
 #EXTINF:-1 group-title="MIỀN TRUNG" tvg-logo="https://2.pik.vn/202189090b0d-f951-4869-9af0-df011f83d2ff.jpg", Thanh Hoá
 

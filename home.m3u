@@ -350,6 +350,9 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 
+#EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/ANT_BPTV3-0.png/revision/latest?cb=20211004001335&path-prefix=vi",Bình Phước 3
+https://8387e1fb5a.vws.vegacdn.vn/live/binhphuoc3/chunklist_1.m3u8
+
 #EXTINF:-1 group-title="MIỀN TRUNG" tvg-logo="https://2.pik.vn/202199b93761-639a-463e-a007-c942ef30d697.jpg", Bình Thuận
 
 http://livecdn.fptplay.net/sdc/binhthuan_2000.stream/chunklist.m3u8
@@ -548,7 +551,7 @@ http://livecdn.fptplay.net/sdc/thainguyen_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="MIỀN BẮC" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/TN2_logo_2017.png/revision/latest?cb=20201006101324&path-prefix=vi", Thái Nguyên 2
 
-http://14.186.94.163:9981/stream/channelid/1386328510
+https://8387e1fb5a.vws.vegacdn.vn/live/thainguyen2/chunklist_1.m3u8
 
 #EXTINF:-1 group-title="MIỀN TRUNG" tvg-logo="https://2.pik.vn/202189090b0d-f951-4869-9af0-df011f83d2ff.jpg", Thanh Hoá
 

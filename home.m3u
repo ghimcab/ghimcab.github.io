@@ -343,7 +343,8 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 
 #EXTINF:-1 group-title="MIỀN NAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/ANT_BPTV3-0.png/revision/latest?cb=20211004001335&path-prefix=vi",Bình Phước 3
-https://8387e1fb5a.vws.vegacdn.vn/live/binhphuoc3/chunklist_1.m3u8
+
+https://livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="MIỀN TRUNG" tvg-logo="https://2.pik.vn/202199b93761-639a-463e-a007-c942ef30d697.jpg", Bình Thuận
 

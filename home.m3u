@@ -212,11 +212,12 @@ http://livecdn.fptplay.net/hda3/boomerang_4000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="MIỀN BẮC" tvg-logo="https://pbs.twimg.com/profile_images/1173731533254905857/nQzMqfHo_400x400.jpg",Dream Works
+
 http://livecdn.fptplay.net/hda3/dreamworks_4000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://1.bp.blogspot.com/-oSriZPbSiVA/YP65RjiVtRI/AAAAAAAAMqQ/pzi_wTKN9uU-gna7I3OfTCy8xsXdNTkQwCNcBGAsYHQ/s0/kenh-music-box-vtvcab.png",Music Box
 
-https://8387100975.vws.vegacdn.vn//live//happy-kids//chunklist_2.m3u8
+https://livecdn.fptplay.net/hda3/music_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://2.pik.vn/20216467553b-ae5e-4950-8344-d07363367aab.jpg", Animal Plannet
 
